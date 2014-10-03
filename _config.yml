@@ -21,8 +21,8 @@ description: "»A buddhist web page."
 
 # This is a switch to easily change the {{ site.url }}-variable to develop the theme locally
 # - url: "http://localhost:4000"
-url: "buddhists.github.io"
-baseurl: ""
+url: ""
+baseurl: "buddhists.github.io"
 
 
 # Logo size is 600x80 pixels
