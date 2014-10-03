@@ -6,32 +6,6 @@
   url: "/getting-started/"
   side: left
 
-- title: "Style your content"
-  url: "/design/style-guide/"
-  side: left
-  dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Post"
-    url: "/design/post/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page"
-    url: "/design/page/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
 
 - title: Documentation
   url: "/documentation/"
