@@ -2,11 +2,6 @@
   url: "/index.html"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-
 - title: Documentation
   url: "/documentation/"
   side: left
@@ -29,4 +24,4 @@
 
 - title: "Contact"
   url: "/contact/"
-  side: right
+  side: left
