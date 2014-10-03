@@ -1,54 +1,54 @@
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: http://www.youtube.com/johnvuong1999
   id: social-youtube
   class: entypo
   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
   entypo: "&#9654;"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/johnvuong1999
   id: social-twitter
   class: entypo-social
   title: "Immer das Neuste von Phlow gibt es auf Twitter"
   entypo: "&#62217;"
 
 - name: Facebook
-  url: http://www.facebook.com/phlow.media
+  url: http://www.facebook.com/johnvuong1999
   id: social-facebook
   class: entypo-social
   title: "Lass uns Freunde sein!"
   entypo: "&#62220;"
 
 - name: Soundcloud
-  url: http://soundcloud.com/phlow
+  url: http://soundcloud.com/johnvuong1999
   id: social-soundcloud
   class: entypo-social
   title: "Sounds und Downloads und mehr"
   entypo: "&#62280;"
 
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/johnvuong1999
   id: social-github
   class: entypo-social
   title: Code und mehr...
   entypo: "&#62208;"
 
 - name: Instagram
-  url: http://instagram.com/phlowmedia
+  url: http://instagram.com/johnvuong1999
   id: social-instagram
   class: entypo-social
   title: "Bilder und Impressionen mit und ohne Filter..."
   entypo: "&#62253;"
 
 - name: Pinterst
-  url: http://www.pinterest.com/phlowmedia/
+  url: http://www.pinterest.com/johnvuong1999/
   id: social-pinterest
   class: entypo-social
   title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
   entypo: "&#62227;"
 
 - name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
+  url: http://www.mixcloud.com/johnvuong1999/
   id: social-mixcloud
   class: entypo
   title: "Mixe, was sonst?"
