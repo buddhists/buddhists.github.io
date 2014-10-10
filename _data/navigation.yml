@@ -5,6 +5,10 @@
 - title: Blog
   url: "/blog/"
   side: left
+  
+- title: Buddhism
+url: "/buddhism/"
+side: left
 
 - title: "Contact"
   url: "/contact/"
